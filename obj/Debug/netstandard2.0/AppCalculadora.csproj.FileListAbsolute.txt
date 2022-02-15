@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\bin\Debug\netstandard2.0\AppCalculadora.deps.json
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\bin\Debug\netstandard2.0\AppCalculadora.dll
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\bin\Debug\netstandard2.0\ref\AppCalculadora.dll
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\bin\Debug\netstandard2.0\AppCalculadora.pdb
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.dll
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\ref\AppCalculadora.dll
+C:\Users\Aluno\Desktop\AppCalculadora\AppCalculadora\obj\Debug\netstandard2.0\AppCalculadora.pdb
